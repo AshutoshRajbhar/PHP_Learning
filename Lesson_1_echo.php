@@ -16,8 +16,7 @@ What are the properties of the echo.
 
 /*
     1. echo is used to print(Display), whatever we want to display on the screen.
-    2. echo is a 'Language Construct'
-    3. echo is Case Insensitive
+    2. echo is a 'Language Construct'.
 */
 ?>
 
@@ -78,6 +77,12 @@ O/P ==> hello world
         Hi World
 
 -->
+
+<?php 
+echo "Hello World";
+echo "<br/>";
+echo "Just say Hi...!  World"
+?>
 
 <!-- ************************************************************* -->
 
