@@ -39,7 +39,7 @@ echo var_dump($_guess);
 
 <?php 
 $_array = ["Ashutosh", 30, "Single", "Software Developer"];
-echo "$_array";
+// echo "$_array";
 echo var_dump($_array);
 ?>
 
