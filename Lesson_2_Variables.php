@@ -66,7 +66,7 @@ $name = "Ashutosh";
 
 $name = "Ashutosh"; // Variable name start with $ sign
 $_place = "Bareilly"; // Variable name can be start with underscore  
-$2 = 500; // this is wrong, Variable name can not be start with a number
+$_2 = 500; // this is wrong, Variable name can not be start with a number
 $newplace202 = "Lucknow"; // Variable name can only contain alpha-numeric character and underscore
 
 ?>
