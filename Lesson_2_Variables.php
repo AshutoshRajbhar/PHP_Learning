@@ -78,6 +78,6 @@ $AGE = 42;
 
 /**
  * Both the above declared Variable $age and $AGE are two different variables
- * Which means Variable name are case-sensitive
+ * Which means Variable name are case-sensitive.
  */
 ?>
